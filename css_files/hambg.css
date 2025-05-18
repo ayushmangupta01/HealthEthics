@@ -1,0 +1,21 @@
+
+     .line {
+        height: 2px;
+        width: 25px;
+        background-color: #fff;
+        width: 100%;
+     }
+
+     .ham{
+        height: 30px;
+        width: 25px;
+        display: none;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items:center;
+        cursor: pointer;
+     }
+
+     .navLinks{
+        position: relative;
+     }
